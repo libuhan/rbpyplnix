@@ -5,3 +5,27 @@ Browser Exploitation Framework:
 Exploitation:
 1. https://github.com/rapid7/metasploit-framework or http://www.metasploit.com/
 2. https://github.com/ronin-ruby/ronin-ruby.github.io or http://ronin-ruby.github.io/
+
+Scanning:
+1. https://github.com/Arachni/arachni or http://www.arachni-scanner.com/
+2. https://github.com/sophsec/ruby-nmap or http://ruby-nmap.rubyforge.org/
+3. https://github.com/wpscanteam/wpscan or http://wpscan.org/
+4. https://github.com/thesp0nge/gengiscan 
+
+Network:
+1. https://github.com/todb/packetfu
+
+Service Interaction:
+1. https://github.com/sampsonc/PwnedCheck or http://www.chs.us/PwnedCheck/
+
+Secure Coding:
+1. https://github.com/flavorjones/loofah
+
+Shellcode/Assembly:
+1. https://github.com/jjyg/metasm or http://metasm.cr0.org/
+2. https://github.com/ronin-ruby/ronin-asm
+
+Spidering:
+1. https://github.com/chriskite/anemone or http://anemone.rubyforge.org/
+2. https://github.com/relevance/tarantula
+
